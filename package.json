@@ -1,0 +1,20 @@
+{
+  "name": "proyectgrup6",
+  "version": "1.0.0",
+  "description": "Proyecto min tic grupo 6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CinthyaR31/front-dulces-sue-os.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CinthyaR31/front-dulces-sue-os/issues"
+  },
+  "homepage": "https://github.com/CinthyaR31/front-dulces-sue-os#readme",
+  "keywords": []
+}

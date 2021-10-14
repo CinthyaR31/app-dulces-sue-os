@@ -1,0 +1,26 @@
+{
+  "name": "proyectgrup6",
+  "version": "1.0.0",
+  "description": "Proyecto min tic grupo 6",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CinthyaR31/front-dulces-sue-os.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CinthyaR31/front-dulces-sue-os/issues"
+  },
+  "homepage": "https://github.com/CinthyaR31/front-dulces-sue-os#readme",
+  "keywords": [],
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.10",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.13"
+  }
+}
